@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\codeSurvival\bin\Debug\net5.0\codeSurvival.exe
+C:\Users\USER\Documents\codeSurvival\bin\Debug\net5.0\codeSurvival.deps.json
+C:\Users\USER\Documents\codeSurvival\bin\Debug\net5.0\codeSurvival.runtimeconfig.json
+C:\Users\USER\Documents\codeSurvival\bin\Debug\net5.0\codeSurvival.runtimeconfig.dev.json
+C:\Users\USER\Documents\codeSurvival\bin\Debug\net5.0\codeSurvival.dll
+C:\Users\USER\Documents\codeSurvival\bin\Debug\net5.0\ref\codeSurvival.dll
+C:\Users\USER\Documents\codeSurvival\bin\Debug\net5.0\codeSurvival.pdb
+C:\Users\USER\Documents\codeSurvival\obj\Debug\net5.0\codeSurvival.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\codeSurvival\obj\Debug\net5.0\codeSurvival.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\codeSurvival\obj\Debug\net5.0\codeSurvival.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\codeSurvival\obj\Debug\net5.0\codeSurvival.AssemblyInfo.cs
+C:\Users\USER\Documents\codeSurvival\obj\Debug\net5.0\codeSurvival.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\codeSurvival\obj\Debug\net5.0\codeSurvival.dll
+C:\Users\USER\Documents\codeSurvival\obj\Debug\net5.0\ref\codeSurvival.dll
+C:\Users\USER\Documents\codeSurvival\obj\Debug\net5.0\codeSurvival.pdb
+C:\Users\USER\Documents\codeSurvival\obj\Debug\net5.0\codeSurvival.genruntimeconfig.cache
